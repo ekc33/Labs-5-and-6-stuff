@@ -1,0 +1,59 @@
+import random 
+from random import randint
+from time import sleep
+
+name = input("What's your name? ")
+print('Hi', name,'!')
+challenge = input('Hi '+ name+'! Down for a single round of rock, paper scissors ? (Y/N)')
+opponent = randint(1,3)
+if challenge == 'Y' or 'yes' or 'Yes' or 'y':
+    print('Ok on go type "rock, paper, or scissors"')
+    sleep(.5)
+    print('3')
+    sleep(.5)
+    print('2')
+    sleep(.5)
+    print('1')
+    sleep(.5)
+    print('GO!')
+    decision = input()
+if challenge == 'N' or 'n' or 'No' or 'no':
+    print('lame')
+    if opponent == 1 and decision == 'rock':
+        print('I choose rock')
+        sleep(1)
+        print('I hate ties :(')
+    elif opponent == 1 and decision == 'paper':
+        print('I choose rock')
+        sleep(1)
+        print('You win this one')
+    elif opponent == 1 and decision == 'scissors':
+        print('I choose rock')
+        sleep(1)
+        print('Looks like you lose this round.')
+    elif opponent == 2 and decision =='rock':
+        print('I choose paper')
+        sleep(1)
+        print('Looks like you lose this round.')
+    elif opponent == 2 and decision == 'paper':
+        print('I choose paper')
+        sleep(1)
+        print('I hate ties :(')
+    elif opponent == 2 and decision == 'scissors':
+        print('I choose paper')
+        sleep(1)
+        print('You win this one')
+    elif opponent == 3 and decision == 'rock':
+        print('I choose scissors')
+        sleep(1)
+        print('You win this one')
+    elif opponent == 3 and decision == 'paper':
+        print('I choose scissors')
+        sleep(1)
+        print('Looks like you lose this round')
+    elif opponent == 3 and decision == 'scissors':
+        print('I choose scissors')
+        sleep(1)
+        print('I hate ties :(')
+    else:
+        print('Incorrect command thus I win')
