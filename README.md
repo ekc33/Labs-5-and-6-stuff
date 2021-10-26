@@ -9,7 +9,6 @@
 
 ## Program Description
 **Group Members: Eli Cohen and Natalya Jimenez**
-
 The program created is used to simulate a single game of *Rock Paper Scissors*. When starting up the program, it asks the user for their name and gives a short response. 
 
 After receiving a name as information, the program asks if the user would like to play a game of *Rock Paper Scissors*. Depending on whether or not the user chose yes or no to the game, a response will be sent out. 
@@ -20,10 +19,8 @@ If the user responds with yes or y, the game will play out with a short countdow
 There is also a response for the program tieing with the user, recognizing and expressing its hatred towards ties within *Rock, Paper, Scissors* games. If the user types a command that doesn't correspond with any available options, the program sees it as an automatic win. 
 
 ## Collaborations
-
 ur mom
 
 ## Sources
-
 This software was inspired and is a complete replica of the game "Rock, Paper, Scissors." For background, the game goes follows a system of one item beating another. Rock beats Scissors, Scissors beats Paper, and Paper beats Rock.
 
