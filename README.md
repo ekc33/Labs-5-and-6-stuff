@@ -4,6 +4,7 @@
 **Group Members: Eli Cohen and Natalya Jimenez**
 
 The program created is used to simulate a single game of *Rock Paper Scissors*. When starting up the program, it asks the user for their name and gives a short response. For background, the game goes follows a system of one item beating another. Rock beats Scissors, Scissors beats Paper, and Paper beats Rock.
+
 After receiving a name as information, the program asks if the user would like to play a game of *Rock Paper Scissors*. Depending on whether or not the user chose yes or no to the game, a response will be sent out. 
 
 If the user says no or n, a short message will be sent out, putting an end to the code.
