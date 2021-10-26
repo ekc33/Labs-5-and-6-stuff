@@ -5,10 +5,11 @@
 2. [Collaborations]
 3. [Sources]
 
-
+***
 
 ## Program Description
 **Group Members: Eli Cohen and Natalya Jimenez**
+
 The program created is used to simulate a single game of *Rock Paper Scissors*. When starting up the program, it asks the user for their name and gives a short response. 
 
 After receiving a name as information, the program asks if the user would like to play a game of *Rock Paper Scissors*. Depending on whether or not the user chose yes or no to the game, a response will be sent out. 
