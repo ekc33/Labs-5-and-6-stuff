@@ -20,8 +20,12 @@ If the user responds with yes or y, the game will play out with a short countdow
 There is also a response for the program tieing with the user, recognizing and expressing its hatred towards ties within *Rock, Paper, Scissors* games. If the user types a command that doesn't correspond with any available options, the program sees it as an automatic win. 
 
 ## Collaborations
-ur mom
+This project is an Open Source project encouraging everyone to be fearless in their contributions. Licensed works, modifications, and larger works may be distributed under different terms and without source code. 
+
+**For Issue Reports!** Don't hold back on submitting issues, commenting on discussions and helping people out. When filing bug reports, be generous and don't hold back in the details: environment, OS, browser, steps to replicate, and so on.
 
 ## Sources
 This software was inspired and is a complete replica of the game "Rock, Paper, Scissors." For background, the game goes follows a system of one item beating another. Rock beats Scissors, Scissors beats Paper, and Paper beats Rock.
 
+- README etiquette: https://github.com/rstacruz/collaborative-etiquette/blob/master/README.md
+- README guide: https://www.ionos.com/digitalguide/websites/web-development/readme-file/
