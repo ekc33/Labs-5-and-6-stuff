@@ -29,3 +29,8 @@ This software was inspired and is a complete replica of the game "Rock, Paper, S
 
 - README etiquette: https://github.com/rstacruz/collaborative-etiquette/blob/master/README.md
 - README guide: https://www.ionos.com/digitalguide/websites/web-development/readme-file/
+
+
+
+### Explanation
+The reason we used the MIT License was because it's short and to the point. It lets people do almost anything they want with our project, like making and distributing closed source versions. It allows for freedom of people's expressions to be fully expressed. We chose the "Contibuter Covenant" as our code of conduct because this pledge is good for bigger projects and typically covers inclusivity well.
